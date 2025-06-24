@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaHospedagem.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281df925f6eb8f03896a895a7577bdd155a5e2cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaHospedagem.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaHospedagem.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
